@@ -1,6 +1,6 @@
 <h1 aligg="left">Welcome to my github profile</h1>
 <h3 align="left">Infos about me:</h3>
-- 🌱 Studying **at Epitech<br>
+- 🌱 Studying at *Epitech technology*<br>
 - 🍁 Learning C, bash and python<br>
 
 <h3 align="left">Languages and Tools:</h3>
