@@ -1,7 +1,7 @@
 <h1 aligg="left">Welcome to my github profile</h1>
 <h3 align="left">About me:</h3>
 - 🌱 Studying at <a href="https://epitech.eu"><b>Epitech technology</b></a><br>
-- 🍁 Learning C<br>
+- 🍁 Arch is life<br>
 - 🍻 Neovim enjoyer<br>
 
 <h3 align="left">Languages and Tools:</h3>
