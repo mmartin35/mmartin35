@@ -1,13 +1,5 @@
 <h1 align="center">hey there 👾</h1>
 
-###
-
-<div align="center">
-  <img height="150" src="https://avatars.fastly.steamstatic.com/7921865b21b0a125949c0d66980e6105e1a33231_full.jpg"  />
-</div>
-
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/mmartin35/count.svg?"  />
 </div>
